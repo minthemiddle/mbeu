@@ -1,1 +1,50 @@
-a,body,p em{color:#fff}body,input,textarea{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen,Ubuntu,Cantarell,"Fira Sans","Droid Sans","Helvetica Neue",sans-serif}body{background-color:#4054E0;font-size:20px;padding:3rem}.logo{width:6rem}p{color:rgba(255,255,255,.4)}p em{font-style:normal}p a{text-decoration:none}p a:hover{text-decoration:underline}footer{color:rgba(255,255,255,.2);font-size:.8rem}.form-control,.form-group{display:block}input,textarea{padding:.3rem}
+body {
+  background-color: #4054E0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+  font-size: 20px;
+  color: #fff;
+  padding: 3rem;
+}
+
+a {
+  color: white;
+}
+
+.logo {
+  width: 6rem;
+}
+
+p {
+  color: rgba(255, 255, 255, 0.4);
+}
+
+p em {
+  font-style: normal;
+  color: white;
+}
+
+p a {
+  text-decoration: none;
+}
+
+p a:hover {
+  text-decoration: underline;
+}
+
+footer {
+  color: rgba(255, 255, 255, 0.2);
+  font-size: .8rem;
+}
+
+.form-group,
+.form-control {
+  display: block;
+}
+
+input,
+textarea {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+  padding: 0.3rem;
+}
+
+/*# sourceMappingURL=main.css.map */
